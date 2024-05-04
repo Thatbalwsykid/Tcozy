@@ -58,7 +58,7 @@ header {
 }
 
 .bgimage {
-    background-image: url(./img-mission-background.webp) ;
+    background-image: url("./img-mission-background.webp");
     background-size: cover;
     height: 700px;
     width: 1200px;
@@ -98,7 +98,7 @@ header {
     top: 100px;
     min-width: 1200px;
     height: 700px;
-    background-image: url(./img-locations-background.webp);
+    background-image: url("./img-locations-background.webp");
     background-size:cover;
     display: flex;
     align-items: center;
